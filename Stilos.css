@@ -1,0 +1,19 @@
+.label {
+    color: white;
+    padding: 8px;
+    font-family: Arial;
+  }
+  .success {background-color: #4CAF50;}
+body{
+    background-color: lightgrey;
+}
+.SpaceDiv{
+    margin-top: 5%;
+}
+#TotSpace{
+    background-color: azure;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
